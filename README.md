@@ -1,2 +1,3 @@
 # zs-content-forms-mental-health
-ZarishSphere clinical forms: mental-health
+
+Generated directly from internal PRD specification.
